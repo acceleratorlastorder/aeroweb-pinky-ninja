@@ -1605,6 +1605,9 @@
 .galerietitle{
 text-decoration: underline;
 }
+.galerievideo> video{
+max-width: 100%;
+}
 
 /* Footer */
 
